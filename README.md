@@ -1,6 +1,6 @@
 # remote_ssh_access_using_ipv6
 
-This is a Automation tool to setup remote ssh access using IPv6
+This is a Automation tool to setup remote ssh access using IPv6 in linux
 
 Need to know more about it and how it works, you can check my blog post [here](https://unibik.github.io/post/remote_ssh_setup/).
 

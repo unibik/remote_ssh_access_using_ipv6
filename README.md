@@ -19,5 +19,3 @@ chmod +x remote_ssh.sh
 ```
 
 __Now you can access your machine through any network remotely and have fun__
-
-just learning
